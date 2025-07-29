@@ -89,6 +89,11 @@ Representa un nodo del grafo:
 - Se destaca el camino mínimo.
 - Se evita que el programa falle cuando el destino es inalcanzable.
 
+Análisis de una abstracción del CUCEI
+https://github.com/user-attachments/assets/f1188f51-452b-4802-9575-58540090795e
+
+
+
 ## 🧩 Conclusión
 
 El uso de árboles y recorridos recursivos como DFS/BFS permite crear una lógica genérica y reutilizable para recorrer cualquier grafo. La separación en clases mejora la mantenibilidad y escalabilidad del código.
