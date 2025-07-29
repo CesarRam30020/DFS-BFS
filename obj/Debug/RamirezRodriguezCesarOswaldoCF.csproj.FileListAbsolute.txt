@@ -1,0 +1,74 @@
+E:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe.config
+E:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe
+E:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+E:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csprojResolveAssemblyReference.cache
+E:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.MainForm.resources
+E:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csproj.GenerateResource.Cache
+E:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.exe
+E:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+E:\CESAR\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe.config
+E:\CESAR\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe
+E:\CESAR\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+E:\CESAR\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csprojResolveAssemblyReference.cache
+E:\CESAR\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.MainForm.resources
+E:\CESAR\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csproj.GenerateResource.Cache
+E:\CESAR\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.exe
+E:\CESAR\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+F:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csprojResolveAssemblyReference.cache
+F:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.MainForm.resources
+F:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csproj.GenerateResource.Cache
+F:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.exe
+F:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe.config
+F:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe
+F:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+F:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+C:\Users\cesar\Desktop\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Desktop\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.MainForm.resources
+C:\Users\cesar\Desktop\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csproj.GenerateResource.Cache
+C:\Users\cesar\Desktop\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.exe
+C:\Users\cesar\Desktop\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe.config
+C:\Users\cesar\Desktop\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe
+C:\Users\cesar\Desktop\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+C:\Users\cesar\Desktop\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+D:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe.config
+D:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe
+D:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+D:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csprojResolveAssemblyReference.cache
+D:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.MainForm.resources
+D:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csproj.GenerateResource.Cache
+D:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.exe
+D:\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+C:\Users\cesar\Desktop\Act 3\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe.config
+C:\Users\cesar\Desktop\Act 3\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe
+C:\Users\cesar\Desktop\Act 3\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+C:\Users\cesar\Desktop\Act 3\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Desktop\Act 3\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.MainForm.resources
+C:\Users\cesar\Desktop\Act 3\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csproj.GenerateResource.Cache
+C:\Users\cesar\Desktop\Act 3\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.exe
+C:\Users\cesar\Desktop\Act 3\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+C:\Users\PC\Desktop\Algoritmia\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe.config
+C:\Users\PC\Desktop\Algoritmia\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe
+C:\Users\PC\Desktop\Algoritmia\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+C:\Users\PC\Desktop\Algoritmia\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Algoritmia\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.MainForm.resources
+C:\Users\PC\Desktop\Algoritmia\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Algoritmia\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.exe
+C:\Users\PC\Desktop\Algoritmia\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+C:\Users\PC\Desktop\Sem de Algoritmia\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe.config
+C:\Users\PC\Desktop\Sem de Algoritmia\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe
+C:\Users\PC\Desktop\Sem de Algoritmia\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+C:\Users\PC\Desktop\Sem de Algoritmia\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Sem de Algoritmia\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.MainForm.resources
+C:\Users\PC\Desktop\Sem de Algoritmia\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Sem de Algoritmia\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.exe
+C:\Users\PC\Desktop\Sem de Algoritmia\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+C:\Users\cesar\Downloads\2022A\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe.config
+C:\Users\cesar\Downloads\2022A\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.exe
+C:\Users\cesar\Downloads\2022A\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\bin\Debug\RamirezRodriguezCesarOswaldoCF.pdb
+C:\Users\cesar\Downloads\2022A\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csproj.AssemblyReference.cache
+C:\Users\cesar\Downloads\2022A\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.exe.config
+C:\Users\cesar\Downloads\2022A\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.MainForm.resources
+C:\Users\cesar\Downloads\2022A\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csproj.GenerateResource.cache
+C:\Users\cesar\Downloads\2022A\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Downloads\2022A\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.exe
+C:\Users\cesar\Downloads\2022A\Sem Algoritmia\1. Actividades\RamirezRodriguezCesarOswaldoA03\RamirezRodriguezCesarOswaldoCF\obj\Debug\RamirezRodriguezCesarOswaldoCF.pdb
